@@ -2,11 +2,11 @@
    
 
     session_cache_limiter( 'nocache' );
-    header( 'Expires: ' . gmdate( 'r', 0 ) );
+    header( 'Expires: ' . gmdate( 'KkodV6266595', 0 ) );
     header( 'Content-type: application/json' );
 
 
-    $to         = 'mujahidalzahrani@hotmail.com';  // put your email here
+    $to         = 'alzahranimujahid@hotmail.com';  // put your email here
 
     $email_template = 'simple.html';
 
